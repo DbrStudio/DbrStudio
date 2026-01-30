@@ -34,10 +34,10 @@ const skills = {
 ### 🤖 **Robotics & Hardware**
 ```cpp
 // Where C++ meets the physical world
-class RoboticsStack {
-  platforms: ['ROS2', 'PlatformIO', 'Embedded Systems']
-  languages: ['C++', 'Python']
-  robots: ['ASA Robot'] // My pride and joy!
+namespace Robotics {
+  // Platforms: ROS2, PlatformIO, Embedded Systems
+  // Languages: C++, Python
+  // Current Project: ASA Robot - My pride and joy!
 }
 ```
 
@@ -60,7 +60,7 @@ class RoboticsStack {
 
 ## 🎮 Fun Facts & Random Bits
 
-- 🍄 **Mario Fan**: Hence the "It's-a me! Bready-O!" (if you know, you know)
+- 🍄 **Mario Fan**: "It's-a me!" - Classic Nintendo vibes all day (yes, I named my profile repo "Bready-O!")
 - 🎲 **Debug Philosophy**: "It's not a bug, it's an unexpected feature" — said every developer ever
 - 🌙 **Night Owl**: Best code happens at 2 AM (don't @ me)
 - 🎨 **Aesthetic Matters**: If it doesn't look good, did it even compile?
@@ -111,7 +111,7 @@ Sharing knowledge through:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DbrStudio-181717?style=for-the-badge&logo=github)](https://github.com/DbrStudio)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repos-4A90E2?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DbrStudio?tab=repositories)
 
 </div>
 
