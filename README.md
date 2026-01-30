@@ -1,7 +1,6 @@
-# 🚀 Welcome to my Little Corner! 🌟
-
 <div align="center">
   
+# 🚀 Welcome to my Little Corner! 🌟
 ### 👾 Code "Wizard" | 🤖 Robot Whisperer | 🎨 Artistic with an "u"
 
 </div>
